@@ -4,6 +4,14 @@ This project is a desktop application built using Python and CustomTkinter to ma
 
 ---
 
+## Here Some Photos
+
+![image](https://github.com/user-attachments/assets/e148fa2d-7e46-4cbe-b95e-e5677732febf)
+![image](https://github.com/user-attachments/assets/2532deec-7104-4640-b198-bdad818a42d5)
+![image](https://github.com/user-attachments/assets/442abbd0-23f4-407c-bae0-b73edeb2d393)
+![image](https://github.com/user-attachments/assets/9de3ee34-be1f-495b-a895-6553c3274016)
+
+
 ## Features
 
 - **Manual Attendance:**
